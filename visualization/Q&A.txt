@@ -1,0 +1,46 @@
+
+1. What is the importance of data visualization?
+   - Data visualization is important because it:
+     - Simplifies complex data into visual formats like charts and graphs.
+     - Helps stakeholders understand trends, outliers, and patterns quickly.
+     - Aids in data-driven decision making by revealing insights that are hard to see in raw data.
+     - Increases engagement and communication, especially for non-technical users.
+
+2. When do you use a pie chart vs a bar chart?
+   - Pie Chart: Use when showing parts of a whole (100%) with a small number of categories (3–6). Example: Market share distribution.
+   - Bar Chart: Use when comparing quantities across categories, especially when there are many categories or when values are similar. Example: Sales by region.
+
+3. How do you make visualizations more engaging?
+   - Use interactive elements (filters, slicers, tooltips).
+   - Highlight key insights with color coding and annotations.
+   - Keep the design clean and consistent.
+   - Use icons or small infographics to support storytelling.
+   - Apply drill-down features for layered exploration.
+
+4. What is data storytelling?
+   - Data storytelling is the process of combining data, visuals, and narrative to explain insights and influence decisions. It includes:
+     - Context: Why this data matters.
+     - Visuals: Charts and graphs to support the story.
+     - Narrative: A clear explanation of what the data shows and why it’s important.
+   
+5. How do you avoid misleading visualizations?
+   - Start axes at zero unless justified.
+   - Don’t distort proportions (e.g., in 3D charts).
+   - Use consistent scales when comparing values.
+   - Avoid cherry-picking data ranges to support a narrative.
+   - Always label your axes and values clearly.
+
+6. What are best practices in dashboard design?
+   - Keep it simple and focused: Show only relevant KPIs and visuals.
+   - Use consistent colors, fonts, and spacing.
+   - Place the most important visuals at the top or top-left.
+   - Use interactive filters for dynamic exploration.
+   - Include titles and legends for clarity.
+   - Test with users to ensure usability and clarity.
+
+7. What tools have you used for visualization?
+   - Power BI – For interactive dashboards and storytelling.
+   - Tableau – For visual analytics and publishing dashboards.
+   - Excel – For quick charts and summary tables.
+   - Matplotlib / Seaborn (Python) – For custom plots and EDA.
+   - Plotly – For interactive web-based charts.
