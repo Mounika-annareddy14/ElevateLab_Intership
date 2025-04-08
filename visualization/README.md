@@ -1,38 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Superstore Sales Dashboard - Summary</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      margin: 30px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #005a9c;
-    }
-    img {
-      max-width: 100%;
-      height: auto;
-      border-radius: 8px;
-      margin: 20px 0;
-    }
-    .highlight {
-      background-color: #e6f2ff;
-      padding: 10px;
-      border-left: 4px solid #005a9c;
-      margin-bottom: 20px;
-    }
-    ul {
-      padding-left: 20px;
-    }
-  </style>
-</head>
-<body>
 
-  <h1>📊 Superstore Sales Dashboard</h1>
+ <h1>📊 Superstore Sales Dashboard</h1>
   <h2>Tracking Growth & Opportunities</h2>
 
   <div class="highlight">
@@ -40,8 +7,8 @@
   </div>
 
   <h2>🖼️ Dashboard Screenshot</h2>
-  <img src="Screenshot.png" alt="Superstore Dashboard Screenshot">
-  <p><em>(Replace with the actual image path)</em></p>
+  <img src="[Screenshot.png](https://github.com/Mounika-annareddy14/ElevateLab_Intership/blob/main/visualization/Screenshot%202025-04-08%20115345.png)" alt="Superstore Dashboard Screenshot">
+  <p><em>("https://github.com/Mounika-annareddy14/ElevateLab_Intership/blob/main/visualization/Screenshot%202025-04-08%20115345.png")</em></p>
 
   <h2>📌 Dashboard Features</h2>
   <ul>
