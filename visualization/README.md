@@ -7,8 +7,8 @@
   </div>
 
   <h2>🖼️ Dashboard Screenshot</h2>
-  <img src="[Screenshot.png](https://github.com/Mounika-annareddy14/ElevateLab_Intership/blob/main/visualization/Screenshot%202025-04-08%20115345.png)" alt="Superstore Dashboard Screenshot">
-  <p><em>("https://github.com/Mounika-annareddy14/ElevateLab_Intership/blob/main/visualization/Screenshot%202025-04-08%20115345.png")</em></p>
+  <img src="(https://github.com/Mounika-annareddy14/ElevateLab_Intership/blob/main/visualization/SalesDashboard.png)" alt="Superstore Dashboard Screenshot">
+  <p><em>("https://github.com/Mounika-annareddy14/ElevateLab_Intership/blob/main/visualization/SalesDashboard.png")</em></p>
 
   <h2>📌 Dashboard Features</h2>
   <ul>
